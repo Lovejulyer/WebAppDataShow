@@ -6,7 +6,7 @@
 
 ###作品展示（请使用手机扫码浏览页面）
 
-![](https://github.com/Lovejulyer/WebAppDataShow/blob/gh-pages/imgs/link.png)
+&emsp;&emsp;&emsp;&emsp;![](https://github.com/Lovejulyer/WebAppDataShow/blob/gh-pages/imgs/link.png)
 
 
 ###重点总结
@@ -27,4 +27,6 @@
 -  [慕课网实战—《用组件方式开发 Web App全站 》笔记七-饼图和环图组件开发 ](http://blog.csdn.net/lovejulyer/article/details/51925513)
 
 ###项目拓展
+
+&emsp;&emsp;&emsp;&emsp;待补充......
 
