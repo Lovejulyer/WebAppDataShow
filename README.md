@@ -4,8 +4,9 @@
 学习地址：[《用组件方式开发 Web App全站》](http://coding.imooc.com/class/15.html)
 
 
-###作品展示
+###作品展示（请使用手机扫码浏览页面）
 
+![](https://github.com/Lovejulyer/WebAppDataShow/blob/gh-pages/imgs/link.png)
 
 
 ###重点总结
