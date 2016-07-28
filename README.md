@@ -12,9 +12,9 @@
 ###重点总结
 
 
--   [慕课网实战—《用组件方式开发 Web App全站 》笔记一——前期准备](http://blog.csdn.net/lovejulyer/article/details/51866428)
+-   [慕课网实战—《用组件方式开发 Web App全站 》笔记一-前期准备](http://blog.csdn.net/lovejulyer/article/details/51866428)
 
--   [慕课网实战—《用组件方式开发 Web App全站 》笔记二——项目JS类开发](http://blog.csdn.net/lovejulyer/article/details/51901455)
+-   [慕课网实战—《用组件方式开发 Web App全站 》笔记二-项目JS类开发](http://blog.csdn.net/lovejulyer/article/details/51901455)
 
 -  [慕课网实战—《用组件方式开发 Web App全站 》笔记三 -散点图组件开发](http://blog.csdn.net/lovejulyer/article/details/51916020) 
 
